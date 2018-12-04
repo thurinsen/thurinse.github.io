@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Aaron, a physics bachelor at University Basel.
 
-### More Information
+### Hobbies and Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies include music, rpg's and fantasy, physics and astronomy.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aaron.hohenfeld@gmail.com](mailto:aaron.hohenfeld@gmail.com)
