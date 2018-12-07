@@ -5,7 +5,7 @@ title: Not a Game, a Platform
 
 I recently picked up Geoguessr again, a browser game that puts you into a random spot of Google Street View and you have to figure out where you are. You click yourself through five landscapes, cities and streets, and can get up to 5000 points per round.
 
-![_config.yml]({{ site.baseurl }}/images/geoguessr.jpg)
+![_config.yml]({{ site.baseurl }}/images/geoguessr.png)
 
 ### Geoguessr, a Game?
 
