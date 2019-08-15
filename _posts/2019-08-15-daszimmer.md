@@ -3,7 +3,9 @@ layout: post
 title: Das Zimmer
 ---
 
-So mancher große Denker, Philosoph oder Wissenschaftler hatten ihre großen Gedankensprünge und Erkenntnisse in der Isolation. So ersann Rene Descartes das kartesische Koordinatensystem, welches die Mathematik revolutionieren würde, eingeschlossen in einem Zimmer. Auch die Wissenschaftliche Methode ist hier entstanden. Sei es nun Newton oder Galileo, die beide unter Hausarrest standen, die Einsamkeit fördert die Erkenntnis. Dieser Auffassung war Janne van Wejk zumindest, als er sich aufmachte einen Raum zu suchen in dem er ungestört seinen Gedanken nachgehen könnte. 
+So mancher große Denker, Philosoph oder Wissenschaftler hatten ihre großen Gedankensprünge und Erkenntnisse in der Isolation.
+
+So ersann Rene Descartes das kartesische Koordinatensystem, welches die Mathematik revolutionieren würde, eingeschlossen in einem Zimmer. Auch die Wissenschaftliche Methode ist hier entstanden. Sei es nun Newton oder Galileo, die beide unter Hausarrest standen, die Einsamkeit fördert die Erkenntnis. Dieser Auffassung war Janne van Wejk zumindest, als er sich aufmachte einen Raum zu suchen in dem er ungestört seinen Gedanken nachgehen könnte. 
 
 Geboren 1891 in Rotterdam, als Sohn des wohlhabenden Händlers Johann Mattis van Wejk, war Janne ein guter Schüler, der die Primarschule mit Lob verlies und im Gymnasium ebenfalls Erfolg hatte. Die Wissenschaften hatten es ihm angetan, Mathematik, Physik, Wirtschaft. Dies war nun eben auch im Zeitgeist, der Mensch triumphiert über die Natur, am Schluss über sich selbst. Er studierte Rechtslehre, um bei seinem Vater im Geschäft einzusteigen, doch in seiner Freizeit war er mit Freunden unterwegs, sie streiften durch die Stadt und redeten. Dabei war ihnen Sokrates ein großes Vorbild, der ebenso in Athen unterwegs war.
 
