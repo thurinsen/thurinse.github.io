@@ -1,7 +1,6 @@
 ---
 layout: post
-title: This is my blog
+title: Welcome to my Blog!
 ---
 
-I have created this blog as part of an experiment to test my writing capabilities. 
-I originally started on tumblr, but as I suspect that site will die soon I have decided to start something more professional
+In this blog I plan to publish any and all pieces of literary fiction I write, sometimes in German and sometimes in English.
