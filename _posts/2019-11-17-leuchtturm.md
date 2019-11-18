@@ -3,7 +3,9 @@ layout: post
 title: Der Leuchtturm
 ---
 
-Im Schatten der Bäume am Rand der Promenade steht eine kleine Bank, von der aus man in Richtung Hafen sieht. Hier sind bis spät in die Nacht Arbeiter und Matrosen, Möwen und Schiffe unterwegs. Hinter dem Hafen liegt die Bucht, in der ein einsamer Felsen die Wasseroberfläche durchbricht. Auf dem Felsen steht der Leuchtturm. Es gibt ihn schon seit Ewigkeiten, er wurde 1623 errichtet und seitdem mehrfach überarbeitet, zuletzt 1978, auch wenn man ihm das nicht mehr ansieht. Von außen ist er ein dreckiges, graues Weiß, das mit der Zeit immer weiter verblässt. Der Fels ist Schwarz oder Grau, was man vom Ufer aus nicht immer erkennt. Allein der schwächer werdende Kontrast zwischen dem Leuchtturm und seiner einsamen Basis ist unverkennbar.
+Im Schatten der Bäume am Rand der Promenade steht eine kleine Bank, von der aus man in Richtung Hafen sieht. 
+
+Hier sind bis spät in die Nacht Arbeiter und Matrosen, Möwen und Schiffe unterwegs. Hinter dem Hafen liegt die Bucht, in der ein einsamer Felsen die Wasseroberfläche durchbricht. Auf dem Felsen steht der Leuchtturm. Es gibt ihn schon seit Ewigkeiten, er wurde 1623 errichtet und seitdem mehrfach überarbeitet, zuletzt 1978, auch wenn man ihm das nicht mehr ansieht. Von außen ist er ein dreckiges, graues Weiß, das mit der Zeit immer weiter verblässt. Der Fels ist Schwarz oder Grau, was man vom Ufer aus nicht immer erkennt. Allein der schwächer werdende Kontrast zwischen dem Leuchtturm und seiner einsamen Basis ist unverkennbar.
 
 Es gibt ein Boot, welches jeden Tag um 11 Uhr den Hafen verlässt und den Felsen ansteuert, doch wird selten von ihm Gebrauch gemacht. Der Leuchtturm ist trotz seines Alters, und der damit verbundenen Geschichte, kein besonderes oder sentimentales Objekt, weder für die Stadt noch für die Einwohner, da sein trostloser Anblick die meisten Besucher abstößt. Jedes Jahr wird ein strukturelles Gutachten gemacht, welches den Zustand der 1903 hinzugefügten Stahlstreben im inneren des Turms überwacht. Die Stadt erhält den Leuchtturm nur für den Fall das die Hafennavigation ausfallen würde.
 
