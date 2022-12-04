@@ -6,10 +6,10 @@
 name: The Comfort Zone
 
 # Short bio or description (displayed in the header)
-description: physics student at university basel. ge and en
+description: writer of written things
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://thurinsen.github.io/images/leichenbild.png
+# avatar: https://thurinsen.github.io/images/leichenbild.png
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 # avatar: thurinsen.github.io/images/pp.jpg
 # avatar: [_config.yml]({{ site.baseurl }}/images/pp.jpg)
@@ -21,15 +21,15 @@ avatar: https://thurinsen.github.io/images/leichenbild.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: aaron.hohenfeld@gmail.com
+  email: # aaron.hohenfeld@gmail.com
   facebook:
   flickr:
-  github: thurinsen
+  github: # thurinsen
   instagram:
-  linkedin: aaron-hohenfeld-ab186a155
+  linkedin: # aaron-hohenfeld-ab186a155
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: thurinsen3141
+  twitter: # thurinsen3141
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
