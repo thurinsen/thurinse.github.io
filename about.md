@@ -8,7 +8,7 @@ Hi! I am thuri, a German and English student. I am also a free journalist and pl
 
 ### Hobbies and Interests
 
-My hobbies include music, rpg's and fantasy, physics and astronomy, writing and reading.
+My hobbies include music, RPGs and fantasy, physics and astronomy, writing and reading.
 
 ### Contact me
 
