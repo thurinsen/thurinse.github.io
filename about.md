@@ -10,6 +10,3 @@ Hi! I am thuri, a German and English student. I am also a free journalist and pl
 
 My hobbies include music, RPGs and fantasy, physics and astronomy, writing and reading.
 
-### Contact me
-
-# [aaron.hohenfeld@gmail.com](mailto:aaron.hohenfeld@gmail.com)
